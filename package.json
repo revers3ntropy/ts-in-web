@@ -1,0 +1,7 @@
+{
+  "name": "ts-web",
+  "type": "module",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
